@@ -1,1 +1,4 @@
-node_modules
+# Ignore node_modules.
+\node_modules
+# Ignore package-lock.json because we don't want to push it up to the server.
+package-lock.json
